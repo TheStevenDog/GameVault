@@ -1,6 +1,7 @@
 /**
  * @format
  */
+import 'react-native-gesture-handler'; // Required for navigation and gesture support
 
 import { AppRegistry } from 'react-native';
 import App from './App';
